@@ -14,12 +14,6 @@ layout: default
     </style>
   </head>
   <body>
-    <h1> cybersecurity profile </h1>
-    <h3> Made By: Kemoko </h3>
-    <div class="line"></div>
     
-    <br>
-    
-    <img src="11_Traore_Kemoko.jpg" alt="Image description" width="285"/>
   </body>
 </html>
