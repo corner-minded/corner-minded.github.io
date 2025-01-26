@@ -1,6 +1,6 @@
  <html>
   <head>
-     <link rel="stylesheet" href="styles.css">
+     <link rel="stylesheet" href="index.css">
   </head>
    <body>
     <section id="section-Expo" class="Expo"> 
