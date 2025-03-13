@@ -1,9 +1,12 @@
 .img_Me{
-float: left;
+  float: left;
 }
 
-.ex
+.Expo_Me{
+  
+}
 
 p {
   color: red;
+  background-color: gray;
 }
