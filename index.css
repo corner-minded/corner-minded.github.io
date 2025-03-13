@@ -2,9 +2,10 @@
   float: left;
 }
 
-.Expo_MeCon{
+#section-Expo{
   display: flex;
-  
+  align-items: center;
+  justify-content: space-between;
 }
 
 p {
