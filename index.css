@@ -3,11 +3,11 @@
 }
 
 .Expo_MeCon{
-  background-color: #343434;
   display: flex;
   
 }
 
 p {
   color: #ace34d;
+  background-color: #343434;
 }
