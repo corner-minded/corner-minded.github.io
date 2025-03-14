@@ -17,3 +17,8 @@ p {
   color: #ace34d;
   background-color: #343434;
 }
+
+h1{
+display: flex;
+align-items: center;
+}
