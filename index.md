@@ -19,6 +19,6 @@
  <h2>Made and Updated by: 3/18/2025--3/18/2025</h2>
 </div>
 
-<img src="images/keylogger-768x403.png" width="300" height="300" />
+<img src="images/keylogger-768x403.png" width="350" height="350" />
   </body>
  </html>
