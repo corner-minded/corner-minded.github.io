@@ -19,6 +19,9 @@
  <h2>Made and Updated by: 3/18/2025--3/18/2025</h2>
 </div>
 
+<div class="Projets_expo">
 <img src="images/keylogger-768x403.png" width="350" height="350" />
+<p>Before I start, I obtained Keylogger from a YouTube tutorial, but as a beginner I try to learn from stuff that was giving to me easily, so I know how things work and I wouldn't need to look for help rather then rely on my self.</p>
+</div>
   </body>
  </html>
