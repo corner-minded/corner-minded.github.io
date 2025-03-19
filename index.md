@@ -20,8 +20,8 @@
 </div>
 
 <div class="Projets_expo">
-<img src="images/keylogger-768x403.png" width="350" height="350" />
-<p>Before I start, I obtained Keylogger from a YouTube tutorial, but as a beginner I try to learn from stuff that was giving to me easily, so I know how things work and I wouldn't need to look for help rather then rely on my self.</p>
+<img src="images/keylogger-768x403.png" width="450" height="350" />
+<p>Before I start, I obtained Keylogger from a YouTube tutorial, As a beginner, I try to learn from resources that are readily available to me. That way, I can understand how things work on my own without constantly needing to seek help. So I have added 2 new modifications to impove on confusion in the log</p>
 </div>
   </body>
  </html>
