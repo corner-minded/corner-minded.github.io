@@ -19,22 +19,29 @@
  <h2>Made and Updated by: 3/18/2025--3/18/2025</h2>
 </div>
 
-<div class="Projets_img">
+<div class="Projets_imgAndDet">
 <img src="images/keylogger-768x403.png" width="450" height="350" />
-</div>
-
-<div class="Projets_Expo">
- <p>Before I start, I obtained Keylogger from a YouTube tutorial, As a beginner, I try to learn from resources that are readily available to me. That way, I can understand how things work on my own without constantly needing to seek help. So I have added 2 new modifications to impove on less confusion in the log, but too the point, this is a basic Keylogger that records keystrokes that have been pressed, this can be used of course to be hidden into a computer and log any sensitive information that was typed on said computer, like emails with passwords, private text messages, Bank info, and more. Here I will break down my simple code.</p>
 
  <details>
   <h3>Technical Details</h3>
   <ul style="list-style-type:square">
    <li><strong>Programming Language:</strong>Python</li>
-   <li></li>
-   <li></li>
+   <li><strong>Frameworks/Libraries:</strong>Pynput</li>
+   <li><strong>Key Features:</strong>
+    <ul style="list-style-type:square">
+     <li>Cross-platform support (Windows, macOS, Linux)</li>
+     <li>Simple API for listening to keyboard events</li>
+     <li>Ability to simulate keyboard input</li>
+    </ul>
+   </li>
   </ul>
  </details>
  
+</div>
+
+<div class="Projets_Expo">
+ <p>Before I start, I obtained this Keylogger from a YouTube tutorial, As a beginner, I try to learn from resources that are readily available to me. That way, I can understand how things work on my own without constantly needing to seek help. So I have added 2 new modifications to impove on less confusion in the log, but too the point, this is a basic Keylogger that records keystrokes that have been pressed, this can be used of course to be hidden into a computer and log any sensitive information that was typed on said computer, like emails with passwords, private text messages, Bank info, and more. Here I will break down my simple code.</p>
+
 </div>
   </body>
  </html>
