@@ -16,7 +16,7 @@
 
 <div class="Projets_name">
  <h2>KeyLogger</h2>
- <h2>Made and Updated by: 3/18/2025--3/18/2025</h2>
+ <h2>Made and Updated by: 3/18/2025--3/21/2025</h2>
 </div>
 
 <div class="Projets_imgAndDet">
@@ -77,7 +77,7 @@ if __name__ == "__main__":
   </code>
  </pre>
 
-<p>Here is the start of the function where I set the parameter as Key</p>
+<p>Here is the start of the function where I set the parameter as <pre><code>Key</code></pre>, then in the next line it take any key pressed to a string so it can be printed in the text file that is existing (or made its self if theres no text file with that same name) then adds a append tool here <pre><code>'a'</code></pre> so any keystrokes will be added im the file, and it will used as <pre><code>logKey.</code></pre></p>
 
 </div>
   </body>
