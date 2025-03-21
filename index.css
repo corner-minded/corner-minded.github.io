@@ -30,7 +30,7 @@ align-items: center;
 justify-content: space-between;
 }
 
-.code_display A{
+.code_display_A{
 display: flex;
 align-items: center;
 justify-content: space-around;
