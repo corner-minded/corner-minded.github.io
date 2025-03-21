@@ -77,7 +77,7 @@ if __name__ == "__main__":
   </code>
  </pre>
 
-<p  width="300" height="200">Here is the start of the function where I set the parameter as Key</p>
+<p>Here is the start of the function where I set the parameter as Key</p>
 
 </div>
   </body>
