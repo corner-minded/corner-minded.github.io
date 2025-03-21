@@ -35,6 +35,15 @@ p {
  background-color: #343434;
 }
 
+pre{
+ background-color: #282c34; 
+ color: #ffffff; 
+ padding: 15px;
+ border-radius: 5px;
+ font-family: monospace;
+ overflow-x: auto;
+}
+
 h1{
 
 }
