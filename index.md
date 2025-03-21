@@ -22,8 +22,8 @@
 <div class="Projets_imgAndDet">
  <div class="Code_keylog">
   <img src="images/keylogger-768x403.png" width="450" height="450" />
-   <pre width="450" height="350">
-    <code width="450" height="350"> 
+   <pre width="450" height="300">
+    <code width="450" height="300"> 
    from pynput import keyboard
      
 def keyPressed(key):
@@ -43,7 +43,6 @@ if __name__ == "__main__":
     listener = keyboard.Listener(on_press=keyPressed)
     listener.start()
     input()
-     
    
   </code>
  </pre>
