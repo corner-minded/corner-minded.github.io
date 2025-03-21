@@ -21,7 +21,7 @@
 
 <div class="Projets_imgAndDet">
  <div class="Code_keylog">
-  <img src="images/keylogger-768x403.png" width="450" height="350" />
+  <img src="images/keylogger-768x403.png" width="450" height="450" />
    <pre width="450" height="350">
     <code width="450" height="350"> 
    from pynput import keyboard
