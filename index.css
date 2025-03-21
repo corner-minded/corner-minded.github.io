@@ -24,6 +24,12 @@ align-items: center;
 justify-content: space-between;
 }
 
+.Code_keylog{
+display: flex;
+align-items: center;
+justify-content: space-between;
+}
+
 p {
  color: #ace34d;
  background-color: #343434;
