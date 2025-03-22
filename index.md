@@ -69,8 +69,8 @@ if __name__ == "__main__":
 </div>
 
 <div class="code_display_A">
- <pre class="code" width="300">
-  <code width="300">
+ <pre class="code">
+  <code>
   def keyPressed(key):
     print(str(key))
     with open("keyfule.txt", 'a') as logKey:
