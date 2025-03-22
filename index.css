@@ -39,7 +39,7 @@ justify-content: space-around;
 .code, .code_Expo{
  flex: 1; 
  padding: 10px;
- text-align: center;
+ align-items: center;
 }
 
 p {
