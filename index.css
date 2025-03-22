@@ -42,14 +42,14 @@ justify-content: space-between;
  align-items: center;
 }
 
-.word_code {
+.word_code{
   display: inline-block; 
   border: 1px solid black; 
   padding: 2px 5px; 
   border-radius: 3px; 
 }
 
-p {
+p{
  color: #ace34d;
  background-color: #343434;
 }
