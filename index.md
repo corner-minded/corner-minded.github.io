@@ -70,7 +70,7 @@ if __name__ == "__main__":
 
 <br>
 
-<div class="code_display_A">
+<div class="code_display_A" width=150>
  <pre class="code">
   <code>
   def keyPressed(key):
