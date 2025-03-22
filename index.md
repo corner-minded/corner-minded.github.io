@@ -80,7 +80,7 @@ if __name__ == "__main__":
   </code>
  </pre>
 
-<p class="code_Expo">Here is the start of the function where I set the parameter as Key, then in the next line it take any key pressed to a string so it can be printed in the text file that is existing (or made its self if theres no text file with that same name) then adds a append tool here 'a' so any keystrokes will be added im the file, and it will used as logKey.</p>
+<p class="code_Expo">Here is the start of the function where I set the parameter as <span class="word_code">Key</span>, then in the next line it take any key pressed to a string so it can be printed in the text file that is existing (or made its self if theres no text file with that same name) then adds a append tool here <span class="word_code">'a'</span> so any keystrokes will be added im the file, and it will used as <span class="word_code">logKey</span>.</p>
 
 </div>
   </body>
