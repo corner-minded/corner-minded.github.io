@@ -69,7 +69,7 @@ if __name__ == "__main__":
 </div>
 
 <div class="code_display_A">
- <pre width="300">
+ <pre class="code" width="300">
   <code width="300">
   def keyPressed(key):
     print(str(key))
@@ -77,7 +77,7 @@ if __name__ == "__main__":
   </code>
  </pre>
 
-<p>Here is the start of the function where I set the parameter as <pre><code>Key</code></pre>, then in the next line it take any key pressed to a string so it can be printed in the text file that is existing (or made its self if theres no text file with that same name) then adds a append tool here <pre><code>'a'</code></pre> so any keystrokes will be added im the file, and it will used as <pre><code>logKey.</code></pre></p>
+<p class="code_Expo">Here is the start of the function where I set the parameter as <pre><code>Key</code></pre>, then in the next line it take any key pressed to a string so it can be printed in the text file that is existing (or made its self if theres no text file with that same name) then adds a append tool here <pre><code>'a'</code></pre> so any keystrokes will be added im the file, and it will used as <pre><code>logKey.</code></pre></p>
 
 </div>
   </body>
