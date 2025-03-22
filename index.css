@@ -38,8 +38,8 @@ width: 100%;
 overflow-x: auto;
 }
 
-.code, code_Expo{
- flex: 1; /* Makes items take equal space */
+.code, .code_Expo{
+ flex: 1; 
  padding: 10px;
  text-align: center;
 }
