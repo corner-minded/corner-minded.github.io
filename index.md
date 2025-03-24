@@ -68,7 +68,7 @@ if __name__ == "__main__":
  <p>Before I start, I obtained this Keylogger from a YouTube tutorial, As a beginner, I try to learn from resources that are readily available to me. That way, I can understand how things work on my own without constantly needing to seek help. So I have added 2 new modifications to impove on less confusion in the log, but too the point. 
   <br>
   <br>
-  this is a basic Keylogger that records keystrokes that have been pressed, this can be used of course to be hidden into a computer and log any sensitive information that was typed on said computer, like emails with passwords, private text messages, Bank info, and more. Here I will break down my simple code.</p>
+  This is a basic Keylogger that records keystrokes that have been pressed, this can be used of course to be hidden into a computer and log any sensitive information that was typed on said computer, like emails with passwords, private text messages, Bank info, and more. Here I will break down my simple code.</p>
 </div>
 
 <br>
@@ -84,7 +84,24 @@ if __name__ == "__main__":
  </pre>
 
 <p class="code_Expo">Here is the start of the function where I set the parameter as <span class="word_code">Key</span>, then in the next line it take any key pressed to a string so it can be printed in the text file that is existing (or made its self if theres no text file with that same name) then adds a append tool here <span class="word_code">'a'</span> so any keystrokes will be added im the file, and it will used as <span class="word_code">logKey</span>.</p>
-
 </div>
+
+<br>
+
+<div class="code_display_A" width=150>
+ <p>Now the <span class="word_code">'Try'</span> is used to handle exceptions that occur when getting a character representation of a key by using <span class="word_code">'key.char'</span>, except for special key, if it's is one it will not be added in the txt file and will give an error "Error getting char". </p>
+
+ <pre class="code">
+  <code>
+    try:
+            char = key.char
+            logKey.write(char)
+        except:
+            print("Error getting char")
+  </code>
+ </pre>
+</div>
+ 
+ </div>
   </body>
  </html>
