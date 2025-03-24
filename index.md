@@ -117,7 +117,7 @@ if __name__ == "__main__":
  <p class="code_Expo"> Now these last two blocks I personal added so theres less confusion on the txt file, because without them the letters will be jumbled up. 
   <br>
   <br>
-  so both <span class="word_code">'if'</span> and <span class="word_code">elif</span> statements are used just in case the ENTER or SPACE key was pressed , it will still display the error line in the console log but will still skip a line or make space once pressed in the txt file.</p>
+  so both <span class="word_code">'if'</span> and <span class="word_code">elif</span> statements are used just in case the ENTER or SPACE key was pressed, it will still display the error line in the console log but will still skip a line or make space once pressed in the txt file.</p>
  </div>
   </body>
  </html>
