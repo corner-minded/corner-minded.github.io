@@ -89,7 +89,7 @@ if __name__ == "__main__":
 <br>
 
 <div class="code_display_A" width=150>
- <p>Now the <span class="word_code">'Try'</span> is used to handle exceptions that occur when getting a character representation of a key by using <span class="word_code">'key.char'</span>, except for special key, if it's is one it will not be added in the txt file and will give an error "Error getting char". </p>
+ <p class="code_Expo">Now the <span class="word_code">'Try'</span> is used to handle exceptions that occur when getting a character representation of a key by using <span class="word_code">'key.char'</span>, except for special key, if it's is one it will not be added in the txt file and will give an error "Error getting char". </p>
 
  <pre class="code">
   <code>
