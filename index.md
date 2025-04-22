@@ -125,7 +125,7 @@ if __name__ == "__main__":
 
  <div class="Projets_name">
  <h2>OWASP Juice Shop:⭐</h2>
- <h2>Made and Updated by: 4/21/2025--4/21/2025</h2>
+ <h2>Made and Updated by: 4/21/2025--4/22/2025</h2>
 </div>
 
 <img src="images/OWASP JSP.jpg" width="100%" height="150"/>
