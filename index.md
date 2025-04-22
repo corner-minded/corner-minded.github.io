@@ -124,10 +124,14 @@ if __name__ == "__main__":
 <br>
 
  <div class="Projets_name">
- <h2>OWASP Juice Shop:1 Stars⭐</h2>
+ <h2>OWASP Juice Shop:⭐</h2>
  <h2>Made and Updated by: 4/21/2025--4/21/2025</h2>
 </div>
 
-<img src="images/OWASP JSP.jpg" width="100%"/>
+<img src="images/OWASP JSP.jpg" width="100%" height="50"/>
+
+<p>OWASP Juice Shop is a web application that has built-in vulnerabilities covering the OWASP Top Ten and beyond, it is use for practice finding and exploiting web vulnerabilities in a safe, legal environment. 
+<br>
+It is used for training and learning web application security, penetration testing, and secure coding practices. I will document the level 1 difficulties to show what I already know and what I learned using OWASP Juice Shop (now a few things were new to me so I had to get some outside help, like AI for hints, websites that already cover the different CTF's, and Youtube videos explaining what to do, but that one of the point of Pen testing, going around the web to find and use different sources and tools to find the vulnerabilities and make them stronger</p>
   </body>
  </html>
