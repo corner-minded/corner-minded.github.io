@@ -128,7 +128,7 @@ if __name__ == "__main__":
  <h2>Made and Updated by: 4/21/2025--4/21/2025</h2>
 </div>
 
-<img src="images/OWASP JSP.jpg" width="100%" height="50"/>
+<img src="images/OWASP JSP.jpg" width="100%" height="150"/>
 
 <p>OWASP Juice Shop is a web application that has built-in vulnerabilities covering the OWASP Top Ten and beyond, it is use for practice finding and exploiting web vulnerabilities in a safe, legal environment. 
 <br>
