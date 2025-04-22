@@ -14,7 +14,7 @@
    <h1 class="Projets_title">---Projets---</h1>
 </div>
 
-<div class="Projets_name_log">
+<div class="Projets_name">
  <h2>KeyLogger</h2>
  <h2>Made and Updated by: 3/18/2025--3/24/2025</h2>
 </div>
@@ -119,5 +119,8 @@ if __name__ == "__main__":
   <br>
   so both <span class="word_code">'if'</span> and <span class="word_code">elif</span> statements are used just in case the ENTER or SPACE key was pressed, it will still display the error line in the console log but will still skip a line or make space once pressed in the txt file.</p>
  </div>
+
+
+ 
   </body>
  </html>
