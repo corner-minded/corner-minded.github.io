@@ -119,5 +119,12 @@ if __name__ == "__main__":
   <br>
   so both <span class="word_code">'if'</span> and <span class="word_code">elif</span> statements are used just in case the ENTER or SPACE key was pressed, it will still display the error line in the console log but will still skip a line or make space once pressed in the txt file.</p>
  </div>
+
+ <div class="Projets_name">
+ <h2>OWASP Juice Shop:1 Stars⭐</h2>
+ <h2>Made and Updated by: 4/21/2025--4/21/2025</h2>
+</div>
+
+<img src="images/keylogger-768x403.png" width="600"/>
   </body>
  </html>
