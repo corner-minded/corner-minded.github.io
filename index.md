@@ -125,6 +125,6 @@ if __name__ == "__main__":
  <h2>Made and Updated by: 4/21/2025--4/21/2025</h2>
 </div>
 
-<img src="images/keylogger-768x403.png" width="600"/>
+<img src="images/OWASP JSP.jpg" width="100%"/>
   </body>
  </html>
