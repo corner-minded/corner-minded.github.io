@@ -137,7 +137,7 @@ It is used for training and learning web application security, penetration testi
 
 <details>
 <ul style="list-style-type:square">
-   <li><strong>Application:</strong>Docker</li>
+   <li><strong>Application:</strong> Docker</li>
 <ul style="list-style-type:square">
 </details>
   </body>
