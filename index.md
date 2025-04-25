@@ -136,7 +136,6 @@ if __name__ == "__main__":
 It is used for training and learning web application security, penetration testing, and secure coding practices. I will document the level 1 difficulties to show what I already know and what I learned using OWASP Juice Shop, now a few things were new to me so I had to get some outside help, like AI for hints, websites that already cover the different CTF's, and Youtube videos explaining what to do, but that one of the point of Pen testing, going around the web to find and use different sources and tools to find the vulnerabilities and make them stronger.</p>
 
 <details>
- <br>
  <ul style="list-style-type:square">
   <li><strong>Application:</strong> Docker</li>
   <li><strong>Sources:</strong> 
@@ -147,7 +146,8 @@ It is used for training and learning web application security, penetration testi
   </li>
  </ul>
 </details>
-
+<br>
+<br>
 <h3 style="display: inline-block; border-bottom: 3px solid #ace34d; padding-bottom: 4px; color: #ace34d;">Injection</h3>
  <br>
   <h2 style="display: inline-block; border-bottom: 3px solid #ace34d; padding-bottom: 4px; color: #ace34d;">Login Admin: ⭐⭐</h2>
