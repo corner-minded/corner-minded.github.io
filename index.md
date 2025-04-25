@@ -153,6 +153,8 @@ It is used for training and learning web application security, penetration testi
   
    <div class="code_display_A" width=150>
     <img src="images/OWASP JSP IMG/Login Admin.JPG">
+     <p>Here is first thing I have done when I open the page, it was a simple SQL Injection, which is a common login Vulnerability where a attacker Injects 
+ a malicious crafted input in the username or password input boxes to gain unauthorize access to a admin account or someone with higher power, this is one of the many in injection vulnerabilities that a web application can have.</p>
    </div>
   </body>
  </html>
