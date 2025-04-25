@@ -148,6 +148,6 @@ It is used for training and learning web application security, penetration testi
 </details>
 
 <h3 style="display: inline-block; border-bottom: 3px ace34d;">Injection</h3>
- <h2 style="display: inline-block; border-bottom: 3px ace34d;">Login Admin</h2>
+ <h2 style="display: inline-block; border-bottom: 3px ace34d;">Login Admin: ⭐⭐</h2>
   </body>
  </html>
