@@ -148,7 +148,7 @@ It is used for training and learning web application security, penetration testi
 </details>
 <br>
 
-#Login Admin
+<!-- Login Admin -->
 <hr style="border: none; border-top: 2px dashed #ace34d;">
 <h3 style="display: inline-block; border-bottom: 3px solid #ace34d; padding-bottom: 4px; color: #ace34d;">Injection</h3>
  <br>
@@ -170,7 +170,7 @@ It is used for training and learning web application security, penetration testi
  
 <br>
 
-#DOM XSS
+<!-- DOM XSS -->
 <h3 style="display: inline-block; border-bottom: 3px solid #ace34d; padding-bottom: 4px; color: #ace34d;">XSS</h3>
  <br>
   <h2 style="display: inline-block; border-bottom: 3px solid #ace34d; padding-bottom: 4px; color: #ace34d;">DOM XSS: ⭐</h2>
