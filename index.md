@@ -161,7 +161,7 @@ It is used for training and learning web application security, penetration testi
    <p>I learned SQL Injections from a website named <a href="https://hacksplaining.com/lessons">Hacksplaining</a>, where its a place where you can learn hacking skills and vulnerabilities, it also teaches how to fix vulnerabilities in code and more, and does short quiz after a summary of the Vulnerability. now the first lessons on the site is web application vulnerabilities, so that where I learned SQL Injections.</p>
 
    <div class="code_display_A" width=150>
-    <video loop autoplay muted src="Videos/OWASP%20JSP%20VIDS/Admin_log.mp4" width="600"></video>
+    <video loop autoplay muted src="Videos/OWASP%20JSP%20VIDS/Admin_log.mp4" width="550"></video>
      
    </div>
   
