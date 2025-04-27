@@ -147,6 +147,9 @@ It is used for training and learning web application security, penetration testi
  </ul>
 </details>
 <br>
+
+#Login Admin
+<hr style="border: none; border-top: 2px dashed #ace34d;">
 <h3 style="display: inline-block; border-bottom: 3px solid #ace34d; padding-bottom: 4px; color: #ace34d;">Injection</h3>
  <br>
   <h2 style="display: inline-block; border-bottom: 3px solid #ace34d; padding-bottom: 4px; color: #ace34d;">Login Admin: ⭐⭐</h2>
@@ -163,7 +166,11 @@ It is used for training and learning web application security, penetration testi
     <video loop autoplay muted src="Videos/OWASP%20JSP%20VIDS/Admin_log.mp4" width="550"></video>
      <p>On this video shows the easy process of using <span class="word_code">' or 1=1--</span>, which is a common code injection to gain access to the admin account, this was insane to me how easy it was when I first leared this, the fact that a simple login injection caused a admin account to get hacked, and all of the severe data, files, and pages only for higher ups can see will be all in the hands of the attacker. </p>
    </div>
+ <hr style="border: none; border-top: 2px dashed #ace34d;">
+ 
 <br>
+
+#DOM XSS
 <h3 style="display: inline-block; border-bottom: 3px solid #ace34d; padding-bottom: 4px; color: #ace34d;">XSS</h3>
  <br>
   <h2 style="display: inline-block; border-bottom: 3px solid #ace34d; padding-bottom: 4px; color: #ace34d;">DOM XSS: ⭐</h2>
