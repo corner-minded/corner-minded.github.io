@@ -158,10 +158,11 @@ It is used for training and learning web application security, penetration testi
  a malicious crafted input in the username or password input boxes to gain unauthorize access to a admin account or someone with higher power, this is one of the many in injection vulnerabilities that a web application can have.</p>
    </div>
 
-   <p>I learned SQL Injections from a website named <a href="https://hacksplaining.com/lessons">Hacksplaining</a>, where its a place where you can learn hacking skills and vulnerabilities, it also teaches how to fix vulnerabilities in code and more, and does short quiz after a summary of the Vulnerability. now the first lessons on the site is web application vulnerabilities, so that where I learned SQL Injections</p>
+   <p>I learned SQL Injections from a website named <a href="https://hacksplaining.com/lessons">Hacksplaining</a>, where its a place where you can learn hacking skills and vulnerabilities, it also teaches how to fix vulnerabilities in code and more, and does short quiz after a summary of the Vulnerability. now the first lessons on the site is web application vulnerabilities, so that where I learned SQL Injections.</p>
 
    <div class="code_display_A" width=150>
-  
+    <video loop="" autoplay="" src="Videos/OWASP JSP VIDS/Admin_log.mp4"></video>
+     
    </div>
   
   </body>
