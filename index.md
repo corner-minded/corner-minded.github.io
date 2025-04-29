@@ -164,7 +164,7 @@ It is used for training and learning web application security, penetration testi
 
    <div class="code_display_A" width=150>
     <video loop autoplay muted src="Videos/OWASP%20JSP%20VIDS/Admin_log.mp4" width="550"></video>
-     <p>On this video shows the easy process of using <span class="word_code">' or 1=1--</span>, which is a common code injection to gain access to the admin account, no mater what password or username, if you have this this Vulnerability, anyone can gain access. was insane to me how easy it was when I first leared this, the fact that a simple login injection caused a admin account to get hacked, and all of the severe data, files, and pages only for higher ups can see will be all in the hands of the attacker. </p>
+     <p>On this video shows the easy process of using <span class="word_code">' or 1=1--</span>, which is a common code injection to gain access to the admin account, no mater what password or username, if you have this Vulnerability, anyone can gain access. was insane to me how easy it was when I first leared this, the fact that a simple login injection caused a admin account to get hacked, and all of the severe data, files, and pages only for higher ups can see will be all in the hands of the attacker. </p>
    </div>
  <hr style="border: none; border-top: 2px dashed #ace34d;">
  
