@@ -11,7 +11,7 @@
     </Header>
 
 <div class="Projets_section">
-   <h1 class="Projets_title">---Projets---</h1>
+   <h1 class="Projets_title">---Projects---</h1>
 </div>
 
 <div class="Projets_name">
@@ -164,7 +164,7 @@ It is used for training and learning web application security, penetration testi
 
    <div class="code_display_A" width=150>
     <video loop autoplay muted src="Videos/OWASP%20JSP%20VIDS/Admin_log.mp4" width="550"></video>
-     <p>On this video shows the easy process of using <span class="word_code">' or 1=1--</span>, which is a common code injection to gain access to the admin account, this was insane to me how easy it was when I first leared this, the fact that a simple login injection caused a admin account to get hacked, and all of the severe data, files, and pages only for higher ups can see will be all in the hands of the attacker. </p>
+     <p>On this video shows the easy process of using <span class="word_code">' or 1=1--</span>, which is a common code injection to gain access to the admin account, no mater what password or username, if you have this this Vulnerability, anyone can gain access. was insane to me how easy it was when I first leared this, the fact that a simple login injection caused a admin account to get hacked, and all of the severe data, files, and pages only for higher ups can see will be all in the hands of the attacker. </p>
    </div>
  <hr style="border: none; border-top: 2px dashed #ace34d;">
  
@@ -177,6 +177,7 @@ It is used for training and learning web application security, penetration testi
 
   <div class="code_display_A" width=150>
    <img src="images/OWASP JSP IMG/DOM XSS.png">
+    <p>A XSS (Cross-site scripting) is one of the most common methods hackers use to attack websites, there are many types of XSS but one really common on is when attackers use a comment section, search bar, or any place they can type something on a website too inject scripts</p>
   </div>
   
   </body>
