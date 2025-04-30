@@ -187,7 +187,7 @@ It is used for training and learning web application security, penetration testi
   </div>
   
  <p>Now XSS can do more then send alerts to anyone in the web page, they can lead to some dangerous stuff if done right:</p>
- <div style="color: #ace34d; background-color: #343434; padding: 10px;">
+ <div style="color: #ace34d; background-color: #343434; padding: 10px; margin-top: -10px;">
   <ul>
    <li>Spreading worms on social media sites.</li>
    <li>Session hijacking.</li>
