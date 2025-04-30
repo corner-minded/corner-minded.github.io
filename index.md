@@ -171,14 +171,19 @@ It is used for training and learning web application security, penetration testi
 <br>
 
 <!-- DOM XSS -->
+<hr style="border: none; border-top: 2px dashed #ace34d;">
 <h3 style="display: inline-block; border-bottom: 3px solid #ace34d; padding-bottom: 4px; color: #ace34d;">XSS</h3>
  <br>
   <h2 style="display: inline-block; border-bottom: 3px solid #ace34d; padding-bottom: 4px; color: #ace34d;">DOM XSS: ⭐</h2>
 
   <div class="code_display_A" width=150>
    <img src="images/OWASP JSP IMG/DOM XSS.png">
-    <p>A XSS (Cross-site scripting) is one of the most common methods hackers use to attack websites, there are many types of XSS but one really common on is when attackers use a comment section, search bar, or any place they can type something on a website too inject scripts</p>
+    <p>A XSS (Cross-site scripting) is one of the most common methods hackers use to attack websites, there are many types of XSS but one really common on is when attackers use a comment section, search bar, or any place they can type something on a website to inject scripts, once entered it runs in the context of the victim's browser as if it were part of the legitimate webpage.</p>
   </div>
-  
+
+  <div class="code_display_A" width=150>
+   <p>here's a short video of me using a alert script in the search bar <span class="word_code"> iframe src="javascript:alert(`successful script injection`)" </span>, which does alert me in the site, attackers can use alert scripts like theses to see if there any other XSS Vulnerability.</p>
+    <video loop autoplay muted src="Videos/OWASP JSP VIDS/DOM_XSS.mp4" width="550"></video>
+  </div>
   </body>
  </html>
