@@ -185,8 +185,8 @@ It is used for training and learning web application security, penetration testi
    <p>Here's a short video of me using a alert script in the search bar <span class="word_code"> iframe src="javascript:alert(`successful script injection`)" </span> which does alert me in the site, attackers can use alert scripts like theses to see if there any other XSS Vulnerability, now .</p>
     <video loop autoplay muted src="Videos/OWASP JSP VIDS/DOM_XSS.mp4" width="550"></video>
   </div>
-
-  <p class="ul_group">Now XSS can do more then send alerts to anyone in the web page, they can lead to some dangerous stuff if done right:
+<div style="color: #ace34d; background-color: #343434; padding: 10px;">
+ <p>Now XSS can do more then send alerts to anyone in the web page, they can lead to some dangerous stuff if done right:
   <ul>
    <li>Spreading worms on social media sites.</li>
    <li>Session hijacking.</li>
@@ -195,6 +195,7 @@ It is used for training and learning web application security, penetration testi
    <li>Theft of sensitive data, like passwords.</li>
    <li>Financial fraud on banking sites.</li>
   </ul>
-  </p>
+ </p>
+</div>
   </body>
  </html>
