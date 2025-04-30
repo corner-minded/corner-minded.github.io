@@ -50,6 +50,12 @@ justify-content: space-between;
   background-color: #282c34;
 }
 
+.ul_group{
+color: #ace34d;
+background-color: #343434;
+padding: 10px
+}
+
 p{
  color: #ace34d;
  background-color: #343434;
