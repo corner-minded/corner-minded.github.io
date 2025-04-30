@@ -186,7 +186,7 @@ It is used for training and learning web application security, penetration testi
     <video loop autoplay muted src="Videos/OWASP JSP VIDS/DOM_XSS.mp4" width="550"></video>
   </div>
 <div style="color: #ace34d; background-color: #343434; padding: 10px; height: 200px;">
- <p>Now XSS can do more then send alerts to anyone in the web page, they can lead to some dangerous stuff if done right:
+ <p>Now XSS can do more then send alerts to anyone in the web page, they can lead to some dangerous stuff if done right:</p>
   <ul>
    <li>Spreading worms on social media sites.</li>
    <li>Session hijacking.</li>
@@ -195,7 +195,8 @@ It is used for training and learning web application security, penetration testi
    <li>Theft of sensitive data, like passwords.</li>
    <li>Financial fraud on banking sites.</li>
   </ul>
- </p>
 </div>
+
+
   </body>
  </html>
