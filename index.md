@@ -182,7 +182,7 @@ It is used for training and learning web application security, penetration testi
   </div>
 
   <div class="code_display_A" width=150>
-   <p>Here's a short video of me using a alert script in the search bar <span class="word_code"> iframe src="javascript:alert(`successful script injection`)" </span> which does alert me in the site, attackers can use alert scripts like theses to see if there any other XSS Vulnerability, now .</p>
+   <p>Here's a short video of me using a alert script in the search bar <span class="word_code"> iframe src="javascript:alert(`successful script injection`)" </span> which does alert me in the site, attackers can use alert scripts like theses to see if there any other XSS Vulnerability, now.</p>
     <video loop autoplay muted src="Videos/OWASP JSP VIDS/DOM_XSS.mp4" width="550"></video>
   </div>
   
@@ -198,6 +198,10 @@ It is used for training and learning web application security, penetration testi
   </ul>
  </div>
 
+<div class="code_display_A" width=150>
+ <video loop autoplay muted src="Videos/OWASP JSP VIDS/Bonus_Payload.mp4" width="550"></video>
+  <p>Heres a example where I use the search bar to enter a script to inject a soundcloud song </p>
+</div>
 
   </body>
  </html>
