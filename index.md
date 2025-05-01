@@ -200,7 +200,7 @@ It is used for training and learning web application security, penetration testi
 
 <div class="code_display_A" width=150>
  <video loop autoplay muted src="Videos/OWASP JSP VIDS/Bonus_Payload.mp4" width="550"></video>
-  <p>Heres a example where I use the search bar to enter a script to inject a soundcloud song </p>
+  <p>Heres a example where I use the search bar to enter a script to inject a soundcloud song, this is a loading a remote script, it is where a webpage or injected code fetches and runs JavaScript code hosted on another server, not directly included in the page’s original source. Instead of embedding the script code inline, this mean I can fetch tools from other sites to play with or hurt the site, like using 'yourdomain.com/your-tool.js'.</p>
 </div>
 
   </body>
