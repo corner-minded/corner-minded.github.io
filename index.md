@@ -171,7 +171,6 @@ It is used for training and learning web application security, penetration testi
 <br>
 
 <!-- DOM XSS -->
-<hr style="border: none; border-top: 2px dashed #ace34d;">
 <h3 style="display: inline-block; border-bottom: 3px solid #ace34d; padding-bottom: 4px; color: #ace34d;">XSS</h3>
  <br>
   <h2 style="display: inline-block; border-bottom: 3px solid #ace34d; padding-bottom: 4px; color: #ace34d;">DOM XSS: ⭐</h2>
@@ -202,6 +201,10 @@ It is used for training and learning web application security, penetration testi
  <video loop autoplay muted src="Videos/OWASP JSP VIDS/Bonus_Payload.mp4" width="550"></video>
   <p>Heres a example where I use the search bar to enter a script to inject a soundcloud song, this is a loading a remote script, it is where a webpage or injected code fetches and runs JavaScript code hosted on another server, not directly included in the page’s original source. Instead of embedding the script code inline, this mean I can fetch tools from other sites to play with or hurt the site, like using 'yourdomain.com/your-tool.js'.</p>
 </div>
+
+<img src="images/OWASP JSP IMG/youtube_XSS.png" width="100%" height="400"/>
+<p>Agian XSS are extremely common, even big sites have fallen to this hack, like back in 2010 Youtube was hacked by a XSS Vulnerability in there comment section, the attckers sent alerts about Justin Bieber dying in a car crash, popup rickroll videos, and made users accounts to subscribe to specific YouTube channels without consent.</p>
+<hr style="border: none; border-top: 2px dashed #ace34d;">
 
   </body>
  </html>
