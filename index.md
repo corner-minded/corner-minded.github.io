@@ -203,7 +203,7 @@ It is used for training and learning web application security, penetration testi
 </div>
 
 <img src="images/OWASP JSP IMG/youtube_XSS.png" width="100%" height="500"/>
-<p>Agian XSS are extremely common, even big sites have fallen to this hack, like back in 2010 Youtube was hacked by a XSS Vulnerability in there comment section, the attckers sent alerts about Justin Bieber dying in a car crash, popup rickroll videos, and made users accounts to subscribe to specific YouTube channels without consent.</p>
+<p>Agian XSS are extremely common, even big sites have fallen to this hack, like back in 2010 Youtube was hacked by a XSS Vulnerability in there comment section, the attckers sent alerts about Justin Bieber dying in a car crash, popup rickroll videos, and made users accounts to subscribe to specific YouTube channels without consent. <a href="https://isc.sans.edu/diary/9130">click here for more info</a></p>
 <hr style="border: none; border-top: 2px dashed #ace34d;">
 
   </body>
