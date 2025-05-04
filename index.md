@@ -206,5 +206,12 @@ It is used for training and learning web application security, penetration testi
 <p>Agian XSS are extremely common, even big sites have fallen to this hack, like back in 2010 Youtube was hacked by a XSS Vulnerability in there comment section, the attckers sent alerts about Justin Bieber dying in a car crash, popup rickroll videos, and made users accounts to subscribe to specific YouTube channels without consent. <a href="https://isc.sans.edu/diary/9130">click here for more info</a></p>
 <hr style="border: none; border-top: 2px dashed #ace34d;">
 
+<br>
+
+<!-- Sensitive Data Exposure -->
+<h3 style="display: inline-block; border-bottom: 3px solid #ace34d; padding-bottom: 4px; color: #ace34d;">Sensitive Data Exposure</h3>
+ <br>
+  <h2 style="display: inline-block; border-bottom: 3px solid #ace34d; padding-bottom: 4px; color: #ace34d;">Sensitive Data Exposure, Exposed Metrics: ⭐</h2>
+
   </body>
  </html>
