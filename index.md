@@ -218,6 +218,6 @@ It is used for training and learning web application security, penetration testi
     <img src="images/OWASP JSP IMG/Exposed Metrics.jpg">
   </div>
 
-<p>A web site is like a large house, with rooms that connented with each other, the home page is like a living room or Entrances, and if click on a icon it takes you to a new page like going to a new room, now not all rooms in the house were ment to be seen, and thats why the homeowner (developer) would lock the door amd take safety percaution so no one can get in, but some times that lock is not stong enuogth or forget to put a lock on it at all, so some user can find the hidden rooms (pages) and use it to exploit the website.</p>
+<p>A web site is like a large house, with rooms that connented with each other, the home page is like a living room or Entrances, and if click on a icon it takes you to a new page like going to a new room, now not all rooms in the house were ment to be seen, and thats why the homeowner (developer) would lock the door amd take safety percaution so no one can get in, but some times that lock is not stong enuogth or forget to put a lock on it at all, so some user can find the hidden rooms (pages) and use it to exploit the house rooms (web pages). </p>
   </body>
  </html>
