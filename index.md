@@ -211,7 +211,13 @@ It is used for training and learning web application security, penetration testi
 <!-- Sensitive Data Exposure -->
 <h3 style="display: inline-block; border-bottom: 3px solid #ace34d; padding-bottom: 4px; color: #ace34d;">Sensitive Data Exposure</h3>
  <br>
-  <h2 style="display: inline-block; border-bottom: 3px solid #ace34d; padding-bottom: 4px; color: #ace34d;">Sensitive Data Exposure, Exposed Metrics: ⭐</h2>
+  <h2 style="display: inline-block; border-bottom: 3px solid #ace34d; padding-bottom: 4px; color: #ace34d;">Confidential Document, Exposed Metrics: ⭐</h2>
 
+  <div class="code_display_A" width=150>
+   <img src="images/OWASP JSP IMG/Confidential Document.jpg">
+    <img src="images/OWASP JSP IMG/Exposed Metrics.jpg">
+  </div>
+
+<p>A web site is like a large house, with rooms that connented with each other, the home page is like a living room or Entrances, and if click on a icon it takes you to a new page like going to a new room, now not all rooms in the house were ment to be seen, and thats why the homeowner (developer) would lock the door amd take safety percaution so no one can get in, but some times that lock is not stong enuogth or forget to put a lock on it at all, so some user can find the hidden rooms (pages) and use it to exploit the website.</p>
   </body>
  </html>
