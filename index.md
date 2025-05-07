@@ -225,5 +225,10 @@ It is used for training and learning web application security, penetration testi
   <p>A website without safety percaution in pages can easily be used to find Confidential data, like home addresses, credit card info, or privite things about the website or users, like right here where I went into the FTP (File Transfer Protocol) to find a Confidential document that was in Lorem Ipsum ( It's just essentially meaningless Latin-like text used to fill space in files, templates, or designs)  FTPs are where the Website owners and developers use to upload, download, and manage files on the web server, such as HTML files, images, scripts, and other content that make up the website, agian this stuff could have a lot of Confidential data and if not closed correctly to users it could be use to steal data for own use.</p>
 </div>
 
+<div class="code_display_A" width=150>
+ <p>another place user should not have access to is the Metrics, the Metrics in a website are quantitative data points that describe how your website or web application is behaving, in the video it shows Confidential data like the CPU, bytes per sec, but when I scrolled all the way to the bottem I saw how many users have digital wallets in the site, the type of users on payment types like standard and deluxe, and how many oders were places in the webstae, all of this terrible because an attacker can see how fast the webbsite sever goes and send a DOS attack if it's slow enough, or use the data about the users to get into digital wallets.</p>
+  <video loop autoplay muted src="Videos/OWASP JSP VIDS/Exposed_Metrics.mp4" width="550"></video>
+</div>
+
   </body>
  </html>
