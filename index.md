@@ -219,5 +219,11 @@ It is used for training and learning web application security, penetration testi
   </div>
 
 <p>A web site is like a large house, with rooms that is connented with each other, the home page is like a living room or Entrances, and if click on a icon it takes you to a new page like going to a new room, now not all rooms in the house were ment to be seen, and thats why the homeowner (developer) would lock the door amd take safety percaution so no one can get in, but some times that lock is not stong enuogth or forget to put a lock on it at all, so some user can find the hidden rooms (pages) and use it to exploit the house rooms (web pages). </p>
+
+<div class="code_display_A" width=150>
+ <video loop autoplay muted src="Videos/OWASP JSP VIDS/Confidential_Document.mp4" width="550"></video>
+  <p>A website without safety percaution in pages can easily be used to find Confidential data, </p>
+</div>
+
   </body>
  </html>
