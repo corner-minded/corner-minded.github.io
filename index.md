@@ -222,7 +222,7 @@ It is used for training and learning web application security, penetration testi
 
 <div class="code_display_A" width=150>
  <video loop autoplay muted src="Videos/OWASP JSP VIDS/Confidential_Document.mp4" width="550"></video>
-  <p>A website without safety percaution in pages can easily be used to find Confidential data, </p>
+  <p>A website without safety percaution in pages can easily be used to find Confidential data, like home addresses, credit card info, or privite things about the website or users, like right here where I went into the FTP (File Transfer Protocol) to find a Confidential document that was in Lorem Ipsum ( It's just essentially meaningless Latin-like text used to fill space in files, templates, or designs)  FTPs are where the Website owners and developers use to upload, download, and manage files on the web server, such as HTML files, images, scripts, and other content that make up the website, agian this stuff could have a lot of Confidential data and if not closed correctly to users it could be use to steal data for own use.</p>
 </div>
 
   </body>
