@@ -226,7 +226,7 @@ It is used for training and learning web application security, penetration testi
 </div>
 
 <div class="code_display_A" width=150>
- <p>another place user should not have access to is the Metrics, the Metrics in a website are quantitative data points that describe how your website or web application is behaving, in the video it shows Confidential data like the CPU, bytes per sec, but when I scrolled all the way to the bottem I saw how many users have digital wallets in the site, the type of users on payment types like standard and deluxe, and how many oders were places in the webstae, all of this terrible because an attacker can see how fast the webbsite sever goes and send a DOS attack if it's slow enough, or use the data about the users to get into digital wallets.</p>
+ <p>another place user should not have access to is the Metrics, the Metrics in a website are quantitative data points that describe how your website or web application is behaving, in the video it shows Confidential data like the CPU, bytes per sec, but when I scrolled all the way to the bottem I saw how many users have digital wallets in the site, the types of users based on payment plans like standard and deluxe, and how many oders were places in the webstae, all of this terrible because an attacker can see how fast the webbsite sever goes and send a DOS attack if it's slow enough, or use the data about the users to get into digital wallets.</p>
   <video loop autoplay muted src="Videos/OWASP JSP VIDS/Exposed_Metrics.mp4" width="550"></video>
 </div>
 
