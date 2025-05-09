@@ -230,5 +230,11 @@ It is used for training and learning web application security, penetration testi
   <video loop autoplay muted src="Videos/OWASP JSP VIDS/Exposed_Metrics.mp4" width="550"></video>
 </div>
 
+<hr style="border: none; border-top: 2px dashed #ace34d;">
+
+<h3 style="display: inline-block; border-bottom: 3px solid #ace34d; padding-bottom: 4px; color: #ace34d;">Improper Input Validation</h3>
+ <br>
+  <h2 style="display: inline-block; border-bottom: 3px solid #ace34d; padding-bottom: 4px; color: #ace34d;">Missing Encoding, Repetitive Registration: ⭐</h2>
+  
   </body>
  </html>
