@@ -235,6 +235,11 @@ It is used for training and learning web application security, penetration testi
 <h3 style="display: inline-block; border-bottom: 3px solid #ace34d; padding-bottom: 4px; color: #ace34d;">Improper Input Validation</h3>
  <br>
   <h2 style="display: inline-block; border-bottom: 3px solid #ace34d; padding-bottom: 4px; color: #ace34d;">Missing Encoding, Repetitive Registration: ⭐</h2>
+
+<div class="image-stack">
+  <img src="images/OWASP JSP IMG/Missing Encoding.jpg" >
+  <img src="images/OWASP JSP IMG/Repetitive Registration.jpg" >
+</div>
   
   </body>
  </html>
