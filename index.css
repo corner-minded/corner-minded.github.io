@@ -58,13 +58,25 @@ padding: 10px
 
 .container-stack{
   display: flex;
-  align-items: flex-start; 
+  align-items: flex-start;
+  margin: 20px;
 }
 
 .image-stack {
   display: flex;
   flex-direction: column;
-  align-items: flex-start;
+  margin-right: 20px;
+}
+
+.image-stack img {
+  width: 60px;    /* Small size */
+  height: auto;
+  margin-bottom: 10px;
+}
+
+.side-text {
+  font-size: 16px;
+  max-width: 400px;
 }
 
 p{
