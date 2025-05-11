@@ -56,10 +56,24 @@ background-color: #343434;
 padding: 10px
 }
 
+.container-stack{
+  display: flex;
+  align-items: flex-start; 
+}
+
 .image-stack {
   display: flex;
   flex-direction: column;
   align-items: flex-start;
+}
+
+.image-stack img {
+  max-width: 100px;
+  margin-bottom: 10px;
+}
+
+.side-text {
+  max-width: 300px;
 }
 
 p{
