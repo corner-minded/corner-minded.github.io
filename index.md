@@ -236,10 +236,13 @@ It is used for training and learning web application security, penetration testi
  <br>
   <h2 style="display: inline-block; border-bottom: 3px solid #ace34d; padding-bottom: 4px; color: #ace34d;">Missing Encoding, Repetitive Registration: ⭐</h2>
 
-<div class="image-stack">
-  <img src="images/OWASP JSP IMG/Missing Encoding.jpg" >
-  <img src="images/OWASP JSP IMG/Repetitive Registration.jpg" >
+<div class="container-stack">
+ <div class="image-stack">
+   <img src="images/OWASP JSP IMG/Missing Encoding.jpg" >
+   <img src="images/OWASP JSP IMG/Repetitive Registration.jpg" >
+ </div>
+ <p class="side-text">An Improper Input Validation is a security flaw Vulnerability where the site or system fails to correctly check, filter, or sanitize the input data it receives, like going to an airport and the TSA did not properly look through your suitcase, since the TSA is not doing there job properly, someone can see that clumsiness and bring something to the flight that is dangerous and can compromise the plane and risk people's life's, like the airport everything needs to be checked in the right input, like if your entering birthday the system need to check if its between 12 months, or putting your login and it seeing if it matches a regular login, this Vulnerability can lead to SQL injection or cross-site scripting, and we seen what bot can do to a site.</p>
 </div>
-  
+
   </body>
  </html>
