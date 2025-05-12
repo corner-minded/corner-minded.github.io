@@ -68,8 +68,8 @@ padding: 10px
 }
 
 .image-stack img {
-  width: 80px;    /* Fixed width */
-  height: 80px;   /* Fixed height */
+  width: 400px;    /* Fixed width */
+  height: 400px;   /* Fixed height */
   object-fit: cover;
   margin-bottom: 10px;
 }
