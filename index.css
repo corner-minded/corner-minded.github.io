@@ -56,10 +56,9 @@ background-color: #343434;
 padding: 10px
 }
 
-.container-stack{
+.container-stack {
   display: flex;
   align-items: flex-start;
-  margin: 20px;
 }
 
 .image-stack {
@@ -69,15 +68,17 @@ padding: 10px
 }
 
 .image-stack img {
-  width: 60px;    /* Small size */
-  height: auto;
+  width: 80px;    /* Fixed width */
+  height: 80px;   /* Fixed height */
+  object-fit: cover;
   margin-bottom: 10px;
 }
 
 .side-text {
-  font-size: 16px;
   max-width: 400px;
+  font-size: 16px;
 }
+
 
 p{
  color: #ace34d;
