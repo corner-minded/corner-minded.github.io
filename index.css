@@ -67,7 +67,7 @@ padding: 10px
   margin-right: 20px;
 }
 
-.image-stack img {
+.image-stack{
   object-fit: cover;
   margin-bottom: 10px;
 }
