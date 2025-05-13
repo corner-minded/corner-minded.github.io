@@ -244,5 +244,7 @@ It is used for training and learning web application security, penetration testi
  <p class="side-text">An Improper Input Validation is a security flaw Vulnerability where the site or system fails to correctly check, filter, or sanitize the input data it receives, like going to an airport and the TSA did not properly look through your suitcase, since the TSA is not doing there job properly, someone can see that clumsiness and bring something to the flight that is dangerous and can compromise the plane and risk people's life's, like the airport everything needs to be checked in the right input, like if your entering birthday the system need to check if its between 12 months, or putting your login and it seeing if it matches a regular login, this Vulnerability can lead to SQL injection or cross-site scripting, and we seen what bot can do to a site.</p>
 </div>
 
+<p>Now this is where things when hard for me, the hints were vague to me and I had to outsource like some of the other vulnerabilities I have listed here, but there were times where I was so close and on the right track but couldn't find the right link or login info in the HTML or main.js code, then I would outsource and the answer would be right there, like all you have to do was change something in the URL and its something I have never done before, although it good to find new vulnerabilities I have never done so I can get ready for something similar.</p>
+
   </body>
  </html>
