@@ -246,5 +246,10 @@ It is used for training and learning web application security, penetration testi
 
 <p>Now this is where things when hard for me, the hints were vague to me and I had to outsource like some of the other vulnerabilities I have listed here, but there were times where I was so close and on the right track but couldn't find the right link or login info in the HTML or main.js code, then I would outsource and the answer would be right there, like all you have to do was change something in the URL and its something I have never done before, although it good to find new vulnerabilities I have never done so I can get ready for something similar.</p>
 
+<div class="code_display_A" width=150>
+ <video loop autoplay muted src="Videos/OWASP JSP VIDS/Missing_Encoding.mp4" width="550"></video>
+  <p>Here shows that I found a img that was not loaded in the page from the HTML code, I had to change the hashed '#' to '%23' to pull up the the hidden img, you see the problem is that the HTML data is not properly encoded, if a someone exploits the image source 'src' tag from the HTML code, it could cause lead to security issues like Cross-Site Scripting (XSS), and this go back to the hashed '#' which is a fragment identifier and can cause issues if not encoded when used inside query parameters or other parts of a URL, but encoding to '%23' allow the URL is treated literally and safely.</p>
+</div>
+
   </body>
  </html>
