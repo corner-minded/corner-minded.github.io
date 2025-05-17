@@ -251,8 +251,10 @@ It is used for training and learning web application security, penetration testi
   <p>Here shows that I found a img that was not loaded in the page from the HTML code, I had to change the hashed '#' to '%23' to pull up the the hidden img, you see the problem is that the HTML data is not properly encoded, if a someone exploits the image source 'src' tag from the HTML code, it could cause lead to security issues like Cross-Site Scripting (XSS), and this go back to the hashed '#' which is a fragment identifier and can cause issues if not encoded when used inside query parameters or other parts of a URL, but encoding to '%23' allow the URL is treated literally and safely.</p>
 </div>
 
-<div class="code_display_A" width=150>
-<p>Repetitive Registration typically refers to a vulnerability where someone can make multiple accounts with the same or similar information repeatedly, this can lead to spamming, resource exhaustion, or bypassing restrictions, this is why most websites have CAPTCHA, email verification, or checking if the username or email is already used, having this problem could make things difficult to analyze data of amount of user in the site, </p>
+<p>Repetitive Registration typically refers to a vulnerability where someone can make multiple accounts with the same or similar information repeatedly, this can lead to spamming, resource exhaustion, or bypassing restrictions, this is why most websites have CAPTCHA, email verification, or checking if the username or email is already used, having this problem could make things difficult to analyze data of amount of user in the site.</p>
+
+ <div class="code_display_A" width=150>
+ <p>like here, its a bit different but here I tried to make an account and seting my password, and I had to retype it for the password confirmation box, but wiredly when I remove some of the words on the first password box the password confirmation box still saw it was matching and allowed me to make the account, this behavior is bad because it means the password confirmation check is flawed or missing proper validation, this could cause users to be locked out of there accounts because they might think they have a certain password but actually registered with a different one, also attackers can use this Vulnerability to bypass password policies or cause account takeover confusion.</p>
  <video loop autoplay muted src="Videos/OWASP JSP VIDS/Repetitive_Registration.mp4" width="550">
 </div>
   </body>
