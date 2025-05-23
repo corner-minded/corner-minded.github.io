@@ -232,6 +232,7 @@ It is used for training and learning web application security, penetration testi
 
 <hr style="border: none; border-top: 2px dashed #ace34d;">
 
+<!-- Improper Input Validation -->
 <h3 style="display: inline-block; border-bottom: 3px solid #ace34d; padding-bottom: 4px; color: #ace34d;">Improper Input Validation</h3>
  <br>
   <h2 style="display: inline-block; border-bottom: 3px solid #ace34d; padding-bottom: 4px; color: #ace34d;">Missing Encoding, Repetitive Registration: ⭐</h2>
@@ -257,5 +258,20 @@ It is used for training and learning web application security, penetration testi
  <p>like here, its a bit different but when I tried to create an account and set my password, I had to retype it in the password confirmation box. However, strangely, when I removed some characters from the first password box, the confirmation box still indicated a match and allowed me to create the account, this behavior is bad because it means the password confirmation check is flawed or missing proper validation, this could cause users to be locked out of there accounts because they might think they have a certain password but actually registered with a different one, also attackers can use this Vulnerability to bypass password policies or cause account takeover confusion.</p>
  <video loop autoplay muted src="Videos/OWASP JSP VIDS/Repetitive_Registration.mp4" width="550">
 </div>
+
+<hr style="border: none; border-top: 2px dashed #ace34d;">
+
+<!-- Unvalidated Redirects -->
+ <h3 style="display: inline-block; border-bottom: 3px solid #ace34d; padding-bottom: 4px; color: #ace34d;">Unvalidated Redirects</h3>
+ <br>
+  <h2 style="display: inline-block; border-bottom: 3px solid #ace34d; padding-bottom: 4px; color: #ace34d;">Outdated Allowlist : ⭐</h2>
+
+   <div class="code_display_A" width=150>
+   <img src="images/OWASP JSP IMG/Outdated Allowlist.jpg">
+    <p>Going back to the house analogy, lets say that the main.js is the house’s electrical wiring and control system hidden behind the walls, that powers the lights, air conditioning, machines, and more in all the rooms (pages), even thought you can't see the wires they work in the backgournd, trying to check if everything responds when you flip a switch or open a door, but while the homeowners was finishing up the wiring, they left some hidding maping (URL links) in the behind of the walls by accident, and someone could find thoses maps and lead to a place that wasn't ment to be seen.</p>
+   </div>
+
+   <div class="code_display_A" width=150>
+   </div>
   </body>
  </html>
