@@ -77,11 +77,12 @@ padding: 10px
   font-size: 16px;
 }
 
-.back-page {
- 
+.back_page {
+text-align: left;
 }
 
-.forward-page {
+.forward_page {
+text-align: right;
 
 }
 
@@ -98,6 +99,14 @@ pre{
  border-radius: 5px;
  font-family: monospace;
  overflow-x: auto;
+}
+
+button{
+border-radius: 10px;
+padding: 10;
+width: 190px;
+font-weight: bold;
+font-size: 25px;
 }
 
 h1{
