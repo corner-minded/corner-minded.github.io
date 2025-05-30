@@ -10,6 +10,12 @@
      </div>
     </Header>
 
+<div class="forward_page">
+ <button>
+  <a href="page_2.md">Page 2</a>
+ </button>
+</div>
+
 <div class="Projets_section">
    <h1 class="Projets_title">---Projects---</h1>
 </div>
