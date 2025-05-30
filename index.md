@@ -12,7 +12,7 @@
 
 <div class="forward_page">
  <button>
-  <a href="page_2.md">Page 2</a>
+  <a href="index2.md">Page 2</a>
  </button>
 </div>
 
